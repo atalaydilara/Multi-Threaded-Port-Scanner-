@@ -70,7 +70,7 @@ Multi-threading kullanılarak birden fazla portun aynı anda kontrol edilmesi sa
 
 
 
-!\[Ana Ekran](screenshots/main-screen.png)
+!\[Ana Ekran](./screenshots/main-screen.png)
 
 
 
@@ -78,7 +78,7 @@ Multi-threading kullanılarak birden fazla portun aynı anda kontrol edilmesi sa
 
 
 
-!\[Port Tarama Sonucu](screenshots/scan-result.png)
+!\[Port Tarama Sonucu](./screenshots/scan-result.png)
 
 
 
