@@ -62,25 +62,15 @@ Multi-threading kullanılarak birden fazla portun aynı anda kontrol edilmesi sa
 
 
 
-\## Ekran Görüntüleri
+## Ekran Görüntüleri
 
+### Ana Ekran
 
+<img src="screenshots/main-screen.png" alt="Ana Ekran">
 
-\### Ana Ekran
+### Port Tarama Sonucu
 
-
-
-!\[Ana Ekran](./screenshots/main-screen.png)
-
-
-
-\### Port Tarama Sonucu
-
-
-
-!\[Port Tarama Sonucu](./screenshots/scan-result.png)
-
-
+<img src="screenshots/scan-result.png" alt="Port Tarama Sonucu">
 
 \## Öğrenme Amaçları
 
